@@ -38,11 +38,10 @@ Once you’ve met all the requirements, you can proceed to create a new campaign
 3. Enter the Campaign details
 
    - In the **Campaign Name** field, use the standardized naming convention:
-   
-     ```
+```
      CLIENT_CAMPAIGNNAME_YYYY-MM-DD
      (e.g., VIBENETMEDIA_WatchoraPromotion_2020-02-08)
-
+```
    - Enter the client name (in place of “CLIENT”), the title of the campaign (in place of “CAMPAIGNNAME”), and the start date of the campaign (in place of “YYYY-MM-DD”).
 
 5. Set a Budgeting Allocation
