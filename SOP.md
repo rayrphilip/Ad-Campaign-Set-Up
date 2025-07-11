@@ -38,13 +38,15 @@ Once you’ve met all the requirements, you can proceed to create a new campaign
 3. Enter the Campaign details
 
    - In the **Campaign Name** field, use the standardized naming convention:
+   
      ```
      CLIENT_CAMPAIGNNAME_YYYY-MM-DD
      (e.g., VIBENETMEDIA_WatchoraPromotion_2020-02-08)
      ```
+
    - Enter the client name (in place of “CLIENT”), the title of the campaign (in place of “CAMPAIGNNAME”), and the start date of the campaign (in place of “YYYY-MM-DD”).
 
-4. Set a Budgeting Allocation
+5. Set a Budgeting Allocation
 
    - **Total Campaign Budget**: Enter the overall budget allocated for the campaign.
    - **Daily/Monthly Budget Caps**:
@@ -52,13 +54,13 @@ Once you’ve met all the requirements, you can proceed to create a new campaign
       - *Optional*: Set a monthly budget to align with billing cycles.
    - **Bidding Strategy**: Select the appropriate strategy based on campaign goals.
   
-5. Define Flight Dates (start and end dates for the campaign)
+6. Define Flight Dates (start and end dates for the campaign)
 
    - In the **Start Date** field, select the campaign’s launch date.
    - In the **End Date** field, select the last day of the campaign.
    - *Optional*: Enable **Pacing** to evenly distribute impressions over the entire campaign duration.
 
-6. Select Targeting Criteria
+7. Select Targeting Criteria
 
    - Navigate to the **Targeting** section of the form.
    - Configure the following parameters as needed:
@@ -69,14 +71,14 @@ Once you’ve met all the requirements, you can proceed to create a new campaign
    - Use the platform's preview tool to verify the estimated audience reach.
    - Click **Save**.
   
-7. Configure Pixel Tracking
+8. Configure Pixel Tracking
 
    - Navigate to **Tools** and click **Pixels & Conversions**.
    - Click **+ New Pixel** or choose an existing one.
    - Assign a clear name.
    - Select its function (View-through, Click-through, or Conversion).
 
-8. Upload Creative Files
+9. Upload Creative Files
 
    - In the **Creative Upload** section, click **Browse** to select the desired files from your device.
    - Supported file types include JPG, JPEG, PNG, GIF, HTML5, and MP4 (refer to platform specifications for size and format requirements).
