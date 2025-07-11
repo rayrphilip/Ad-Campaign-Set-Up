@@ -42,7 +42,6 @@ Once you’ve met all the requirements, you can proceed to create a new campaign
      ```
      CLIENT_CAMPAIGNNAME_YYYY-MM-DD
      (e.g., VIBENETMEDIA_WatchoraPromotion_2020-02-08)
-     ```
 
    - Enter the client name (in place of “CLIENT”), the title of the campaign (in place of “CAMPAIGNNAME”), and the start date of the campaign (in place of “YYYY-MM-DD”).
 
